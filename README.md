@@ -62,7 +62,7 @@ StudentTaskTracker/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/madynamo/StudentTaskTracker.git
+git clone https://github.com/GOPALup85/StudentTaskTracker.git
 cd StudentTaskTracker
 ```
 
