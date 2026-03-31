@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * Represents a single academic task or assignment.
- * This is the core data model of the Student Task Tracker.
+ * This is the core data model of the Student Task Tracker .
  */
 public class Task {
 
