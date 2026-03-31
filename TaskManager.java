@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 /**
  * Manages the collection of tasks in memory and coordinates persistence.
- * Demonstrates OOP (encapsulation), Collections, and business logic separation.
+ * Demonstrates OOP (encapsulation), Collections, and business logic separation .
  */
 public class TaskManager {
 
