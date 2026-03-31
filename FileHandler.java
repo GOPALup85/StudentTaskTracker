@@ -37,7 +37,7 @@ public class FileHandler {
     }
 
     /**
-     * Loads tasks from the CSV file.
+     * Loads tasks from the CSV file .
      * Returns an empty list if the file does not yet exist (first run).
      *
      * @return list of tasks read from disk
