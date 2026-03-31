@@ -57,7 +57,7 @@ public class Main {
         scanner.close();
     }
 
-    // ─── Menu Handlers ─────────────────────────────────────────────────────────
+    //  ─── Menu Handlers ─────────────────────────────────────────────────────────
 
     private static void addTask() {
         System.out.println(DIVIDER);
